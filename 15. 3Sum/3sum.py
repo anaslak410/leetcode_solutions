@@ -7,7 +7,7 @@ class Solution:
         result = set()
         nums.sort()
         for index, value in enumerate(nums):
-            l = 0
+            l = index + 1
             r = len(nums) - 1
 
             while r > l:
