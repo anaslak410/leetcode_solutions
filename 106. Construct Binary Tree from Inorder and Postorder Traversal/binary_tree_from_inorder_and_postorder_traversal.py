@@ -58,7 +58,5 @@ class Solution:
 
 if __name__ == "__main__":
     s = Solution()
-    # s.largestRectangleArea(heights=[2, 1, 5, 6, 2, 3])
-    s = [1, 2, 3, 4, 5]
 
-    print(enumerate(s)[0])
+    print(5/2)
