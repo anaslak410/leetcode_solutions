@@ -36,4 +36,4 @@ class Solution:
             if rand in obj_map:
                 obj_map[key].random = obj_map[rand]
 
-        return new_hea
+        return new_head
